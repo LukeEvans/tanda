@@ -1,0 +1,4 @@
+Flask==1.0.3
+Jinja2==2.10
+stravalib==0.10.2
+
